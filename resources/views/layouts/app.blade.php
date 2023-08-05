@@ -12,6 +12,13 @@
     integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 
 </head>
+<nav>
+  <ul>
+    <li><a href="">inicio</a></li>
+    <li><a href="">presio</a></li>
+    <li><a href="">hhhhh</a></li>
+  </ul>
+</nav>
 
 <body>
     @yield('content')
