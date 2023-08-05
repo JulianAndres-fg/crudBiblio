@@ -12,6 +12,9 @@
     integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 
 </head>
+<header>
+  <h1>header principal</h1>
+</header>
 <nav>
   <ul>
     <li><a href="">inicio</a></li>
