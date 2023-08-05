@@ -62,6 +62,7 @@
           <!-- Aquí puede ser tu vista index.blade.php o cualquier otra vista donde desees colocar el botón -->
 
           @include('libros.create')
+        
     </div>
 @endsection
     
